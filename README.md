@@ -21,7 +21,10 @@ This repo contains **well-structured Jupyter Notebooks** designed to help you **
 🔹 **Principal Component Analysis (PCA)** → Dimensionality reduction, eigenvalues/vectors  
 🔹 **Gradient Descent & Optimization** → Batch, Stochastic, Mini-Batch GD  
 🔹 **Neural Networks (Basics)** → Perceptron, activation functions, backpropagation  
-🔹 **Convolutional Neural Networks (CNNs)** → Convolution layers, pooling, fully connected layers, Fashion MNIST implementation.
+🔹 **Convolutional Neural Networks (CNNs)** → Convolution layers, pooling, fully connected layers, Fashion MNIST implementation.   
+🔹 **Transformers from Scratch** → Self-attention, multi-head attention, positional encoding, and building a Transformer step-by-step without external libraries.
+
+
 
 ---
 
