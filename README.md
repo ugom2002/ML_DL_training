@@ -1,4 +1,4 @@
-# 📚 Machine Learning Notebooks Repository  
+# 📚 Machine Learning & Deep Learning Notebooks Repository  
 
 Welcome to the **Machine Learning Notebooks** repository! 🚀  
 
